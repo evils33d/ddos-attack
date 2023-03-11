@@ -65,4 +65,4 @@ if len(sys.argv) >= 3:
       except:
          seg = seg + 1
 else:
-    print("Use 'python script.py \"http://<url>\" <threads>'")
+    print("Use 'python main.py \"http://<url>\" <threads>'")
