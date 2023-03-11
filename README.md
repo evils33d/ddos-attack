@@ -9,7 +9,7 @@ $source env/bin/activate
 
 Luego de iniciar el ambiente, debes instalar las librerias
 
-$pip install -r requierements.txt
+$pip install -r requirements.txt
 
 Hay una sola librería por lo que no debería demorar mucho.
 
